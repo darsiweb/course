@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);
+    font-family: Open Sans, bold;
+}
+
+h1 {
+    font-size: 50px;  color: purple;
+
+}
+
+h2 {
+    font-size: 35 px;  color: purple; 
+}
+
+ 
+.first {
+    border: 1px solid purple;
+    padding: 20px;
+    background-color:plum;
+    margin-bottom: 50px;
+    color: white;
+ }
+.second {
+    border: 1px solid blueviolet;
+    padding: 20px;
+    background-color:pink;
+    margin-bottom: 50px;
+}
+.third {
+    border: 1px solid rgb(240, 68, 197);
+    padding: 20px;
+    background-color: peachpuff;
+}
